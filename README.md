@@ -1,3 +1,2 @@
-#Binary search
-#Divide and Conquer 
-#For sorted items
+# Binary search
+# Divide and Conquer 
