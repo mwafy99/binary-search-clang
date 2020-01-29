@@ -1,0 +1,3 @@
+/home/mwafy/source-code/algorithms-c-language/binary-search/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mwafy/source-code/algorithms-c-language/binary-search/cmake-build-debug/CMakeFiles/binary_search.dir
+/home/mwafy/source-code/algorithms-c-language/binary-search/cmake-build-debug/CMakeFiles/edit_cache.dir
